@@ -1,6 +1,7 @@
 # Gestural Interaction Web Conference
 
 A web-based video conferencing application that enables gesture-based control using computer vision. Control meeting functions with hand gestures instead of clicking buttons.
+Our presentation for the project: [click here!](https://docs.google.com/presentation/d/1H7tZ7pJ5NnbabZnrdReIxsonTODeJKEz8kQgwL_EKTk/edit?usp=sharing)
 
 ## 🎯 Goal
 
